@@ -1,4 +1,4 @@
-# ChatWithPDF-Rag-App
+# PageWise
 
 ![alt text](image-3.png)
 <video controls src="2025-03-2211-32-37-ezgif.com-gif-maker.mkv" title="Title"></video>
