@@ -14,8 +14,8 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone
-   cd
+   git clone https://github.com/JackSparrow1770/PageWise.git
+   cd PageWise
 
    ```
 
